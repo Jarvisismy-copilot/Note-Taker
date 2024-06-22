@@ -1,7 +1,6 @@
 # Note-Taker
 Note Taking Application
 
-
 ## Links
 
 
